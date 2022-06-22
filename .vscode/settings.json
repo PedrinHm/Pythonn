@@ -1,0 +1,5 @@
+{
+    "files.autoSave": "afterDelay",
+    "java.saveActions.organizeImports": true,
+    "editor.formatOnSave": true
+}
